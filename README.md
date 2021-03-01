@@ -1,17 +1,18 @@
-### Adán Fernández
+# Adán Fernández - My GitHub
 
 <br/>
-
-
-
 Full stack software developer working at Nubexx GmbH and studying a master’s degree in web engineering.
 In February 2020 I graduated in computer science engineering degree (University of Oviedo).
 <br/>
 Within computing I am very interested in the design and architecture of scalable applications.
 
+<br/>
+<br/>
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+
+<br/>
 <br/>
 
 **Languages and Tools:**  
@@ -31,9 +32,13 @@ Within computing I am very interested in the design and architecture of scalable
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adanfernandez&show_icons=true&theme=gotham" alt="adanfernandez" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=adanfernandez&show_icons=true&theme=gotham" alt="adanfernandez" />
+
+<br/>
 
 
+📫 You can find me at: 
+<br/>
 <a href="https://twitter.com/adanfdezs">
   <img align="left" alt="Adan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -45,6 +50,10 @@ Within computing I am very interested in the design and architecture of scalable
 <a href="https://open.spotify.com/user/adanvetusta?si=BGQKyy5FSC6vfELwptRWLQ">
   <img align="left" alt="Adan's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+
+
+<br/>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=adanfernandez.adanfernandez)
 
