@@ -11,7 +11,7 @@ Within computing I am very interested in the design and architecture of scalable
 <br/>
 <br/>
 
- <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img alt="GIF" src="code.gif" width="500" height="320" />
 
 
 <br/>
