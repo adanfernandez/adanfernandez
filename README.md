@@ -1,4 +1,6 @@
 # Adán Fernández - My GitHub
+![](https://visitor-badge.glitch.me/badge?page_id=adanfernandez.adanfernandez)
+
 
 <br/>
 Full stack software developer working at Nubexx GmbH and studying a master’s degree in web engineering.
@@ -53,8 +55,5 @@ Within computing I am very interested in the design and architecture of scalable
 
 
 <br/>
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=adanfernandez.adanfernandez)
 
 <br />
