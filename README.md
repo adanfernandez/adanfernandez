@@ -41,6 +41,7 @@ Within computing I am very interested in the design and architecture of scalable
 
 📫 You can find me at: 
 <br/>
+
 <a href="https://twitter.com/adanfdezs">
   <img align="left" alt="Adan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
